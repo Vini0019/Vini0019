@@ -1,5 +1,5 @@
 <div align="center">
-  <img width='100%' src="https://i.imgur.com/MMGwBx6.png"  />
+  <img width='100%' src="https://i.imgur.com/hLjy0wp.png"  />
 </div>
 
 ###
@@ -51,7 +51,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vini0019&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true" height="150" alt="stats graph" style="margin-right: 10px;" />
+  
   
   <img src="https://streak-stats.demolab.com?user=Vini0019&locale=pt-br&mode=weekly&theme=dracula&hide_border=true&border_radius=5&date_format=%5BY%20%5DM%20j" height="150" alt="streak graph" style="margin-right: 10px;" />
   
@@ -77,7 +77,9 @@
 </div>
 
 ###
+<div align="center">
 
-<img src="https://raw.githubusercontent.com/Vini0019/Vini0019/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Vini0019/Vini0019/output/snake.svg" alt="Snake animation"/>
+</div>
 
 ###

@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Olá! Sou um desenvolvedor web com foco em PHP e Laravel, apaixonado por criar soluções modernas, eficientes e escaláveis. Por aqui compartilho projetos, experimentos e estudos que refletem minha jornada como desenvolvedor.<br>Sinta-se à vontade para explorar, clonar, dar sugestões ou apenas deixar uma estrela ⭐ se algo te inspirar!<br>🚀 Sempre aprendendo, sempre evoluindo.</h3>
+<h3 align="center">Olá! Sou um desenvolvedor web com foco em PHP e Laravel, apaixonado por criar soluções modernas, eficientes e escaláveis. Por aqui compartilho projetos, experimentos e estudos que refletem minha jornada como desenvolvedor. Sinta-se à vontade para explorar, clonar, dar sugestões ou apenas deixar uma estrela ⭐ se algo te inspirar! 🚀 Sempre aprendendo, sempre evoluindo.</h3>
 
 ###
 
